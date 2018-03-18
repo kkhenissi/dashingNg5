@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  checked = true;
+  checked1 = true;
+  checked2 = false;
+  checked3 = false;
+  checked4 = false;
 }
