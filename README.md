@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/kkhenissi/dashingNg5/badge.svg?branch=master)](https://coveralls.io/github/kkhenissi/dashingNg5?branch=master)
+[![Build Status](https://travis-ci.org/kkhenissi/dashingNg5.svg?branch=master)](https://travis-ci.org/kkhenissi/dashingNg5)
 # Dashingng5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
