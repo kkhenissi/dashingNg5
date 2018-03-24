@@ -11,5 +11,4 @@ describe('dashingng5 App', () => {
     page.navigateTo();
     expect(page.getParagraphText()).toEqual('Welcome to app!');
   });
-});
- */
+}); */
