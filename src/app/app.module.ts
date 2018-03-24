@@ -5,6 +5,8 @@ import { BrowserAnimationsModule,  NoopAnimationsModule } from '@angular/platfor
 import { MaterialModule } from './theme/material.module';
 import { AppComponent } from './app.component';
 import { FormsModule } from '@angular/forms';
+import {MatCheckboxModule} from '@angular/material/checkbox';
+import {MatCardModule} from '@angular/material/card';
 
 
 @NgModule({
@@ -17,6 +19,8 @@ import { FormsModule } from '@angular/forms';
     MaterialModule,
     BrowserAnimationsModule,
     NoopAnimationsModule,
+    MatCheckboxModule,
+    MatCardModule
 
   ],
   providers: [],

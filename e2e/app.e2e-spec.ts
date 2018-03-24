@@ -1,4 +1,4 @@
-import { AppPage } from './app.po';
+/* import { AppPage } from './app.po';
 
 describe('dashingng5 App', () => {
   let page: AppPage;
@@ -11,4 +11,4 @@ describe('dashingng5 App', () => {
     page.navigateTo();
     expect(page.getParagraphText()).toEqual('Welcome to app!');
   });
-});
+}); */
